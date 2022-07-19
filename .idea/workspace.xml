@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df682a64-6fdc-4206-a7fa-50589a126ee2" name="변경" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreditCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/생성, 참조연산자.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/신용카드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/신용카드테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/접근지정자.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/필드기본값.md" afterDir="false" />
+    <list default="true" id="df682a64-6fdc-4206-a7fa-50589a126ee2" name="변경" comment="~9강">
+      <change afterPath="$PROJECT_DIR$/src/static,final.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/대학생.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/대학생테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/생성자.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/학생.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/학생테슽트.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditCardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +48,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.신용카드테스트">
+  <component name="RunManager" selected="애플리케이션.학생테슽트">
     <configuration name="신용카드테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="신용카드테스트" />
+      <module name="java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="학생테슽트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="학생테슽트" />
       <module name="java-oop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.학생테슽트" />
         <item itemvalue="애플리케이션.신용카드테스트" />
         <item itemvalue="애플리케이션.CreditCardTest" />
       </list>
@@ -85,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658250705421</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="~9강">
+      <created>1658253080771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658253080771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="~9강" />
+    <option name="LAST_COMMIT_MESSAGE" value="~9강" />
   </component>
 </project>
