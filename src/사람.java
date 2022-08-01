@@ -19,6 +19,10 @@ public class 사람 {
         System.out.println("번호 = " + 번호);
     }
 
+    @Override
+    public String toString(){
+        return "이름:" + 이름 + "번호" + 번호;
+    }
 }
 
 class 교직원 extends 사람{
