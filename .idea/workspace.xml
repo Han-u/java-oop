@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df682a64-6fdc-4206-a7fa-50589a126ee2" name="변경" comment="~3-11강 제네릭">
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/리스트테스ㅡㅌ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/맵테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/셋테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/컬렉션.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df682a64-6fdc-4206-a7fa-50589a126ee2" name="변경" comment="~3-18강 Collection">
+      <change afterPath="$PROJECT_DIR$/src/에러테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/예외처리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659369250759</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="~3-18강 Collection">
+      <created>1659373978094</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659373978094</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +259,7 @@
     <MESSAGE value="~3-5강 String" />
     <MESSAGE value="~3-7강 math,date" />
     <MESSAGE value="~3-11강 제네릭" />
-    <option name="LAST_COMMIT_MESSAGE" value="~3-11강 제네릭" />
+    <MESSAGE value="~3-18강 Collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="~3-18강 Collection" />
   </component>
 </project>
