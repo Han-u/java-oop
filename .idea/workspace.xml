@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df682a64-6fdc-4206-a7fa-50589a126ee2" name="변경" comment="~3-7강 math,date">
-      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Box2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Box3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/박스테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/제네릭.md" afterDir="false" />
+    <list default="true" id="df682a64-6fdc-4206-a7fa-50589a126ee2" name="변경" comment="~3-11강 제네릭">
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/리스트테스ㅡㅌ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/맵테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/셋테스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/컬렉션.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +50,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.박스테스트">
-    <configuration name="오버라이딩테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="오버라이딩테스트" />
+  <component name="RunManager" selected="애플리케이션.셋테스트">
+    <configuration name="셋테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="셋테스트" />
       <module name="java-oop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.셋테스트" />
         <item itemvalue="애플리케이션.박스테스트" />
         <item itemvalue="애플리케이션.날짜테스트" />
         <item itemvalue="애플리케이션.문자열테스트" />
         <item itemvalue="애플리케이션.Sample" />
-        <item itemvalue="애플리케이션.오버라이딩테스트" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659364575467</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="~3-11강 제네릭">
+      <created>1659369250759</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659369250759</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +257,7 @@
     <MESSAGE value="~2-15강 인터페이스" />
     <MESSAGE value="~3-5강 String" />
     <MESSAGE value="~3-7강 math,date" />
-    <option name="LAST_COMMIT_MESSAGE" value="~3-7강 math,date" />
+    <MESSAGE value="~3-11강 제네릭" />
+    <option name="LAST_COMMIT_MESSAGE" value="~3-11강 제네릭" />
   </component>
 </project>
